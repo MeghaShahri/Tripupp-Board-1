@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="34" viewBox="0 0 88 34">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4b4b4b;
+        font-size: 28px;
+        font-family: Montserrat-Bold, Montserrat;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="Board" class="cls-1" transform="translate(0 27)"><tspan x="0" y="0">Board</tspan></text>
+</svg>

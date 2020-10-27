@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1611" height="1016" viewBox="0 0 1611 1016">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #707070;
+        opacity: 0.05;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4baea0"/>
+      <stop offset="1" stop-color="#5268ba"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_408" data-name="Group 408" transform="translate(461 -598)">
+    <g id="Ellipse_91" data-name="Ellipse 91" class="cls-1" transform="translate(-461 598)">
+      <ellipse class="cls-2" cx="662" cy="405.5" rx="662" ry="405.5"/>
+      <ellipse class="cls-3" cx="662" cy="405.5" rx="661.5" ry="405"/>
+    </g>
+    <g id="Ellipse_90" data-name="Ellipse 90" class="cls-1" transform="translate(-174 804)">
+      <ellipse class="cls-2" cx="662" cy="405" rx="662" ry="405"/>
+      <ellipse class="cls-3" cx="662" cy="405" rx="661.5" ry="404.5"/>
+    </g>
+  </g>
+</svg>

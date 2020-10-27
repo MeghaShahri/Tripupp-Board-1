@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="196" height="34" viewBox="0 0 196 34">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4b4b4b;
+        font-size: 28px;
+        font-family: Montserrat-Bold, Montserrat;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="Video_Library" data-name="Video Library" class="cls-1" transform="translate(1 27)"><tspan x="0" y="0">Video Library</tspan></text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="358" height="65" viewBox="0 0 358 65">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d60b3c;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 26px;
+        font-family: Roboto-Medium, Roboto;
+        font-weight: 500;
+        letter-spacing: 0.089em;
+      }
+    </style>
+  </defs>
+  <g id="Group_406" data-name="Group 406" transform="translate(-748 -508)">
+    <rect id="Rectangle_588" data-name="Rectangle 588" class="cls-1" width="358" height="65" rx="20" transform="translate(748 508)"/>
+    <text id="Start_preparing_now_" data-name="Start preparing now!" class="cls-2" transform="translate(787 551)"><tspan x="0" y="0">Start preparing now!</tspan></text>
+  </g>
+</svg>
