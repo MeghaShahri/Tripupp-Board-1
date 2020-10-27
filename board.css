@@ -132,7 +132,7 @@
     width: 1455px;
     height: 89px;
     object-fit: contain;
-    font-family: Montserrat;
+    font-family:'Montserrat';
     font-size: 73px;
     font-weight: 900;
     font-stretch: normal;
@@ -183,7 +183,7 @@
   .Start-preparing-now {
     width: 281px;
     height: 34px;
-    font-family: Roboto;
+    font-family:'Roboto';
     font-size: 26px;
     font-weight: 500;
     font-stretch: normal;
@@ -215,7 +215,8 @@
   .State-Boards {
     width: 500px;
     height: 88px;
-    font-family: Montserrat;
+    font-family:'Montserrat';
+    
     font-size: 72px;
     font-weight: 900;
     font-stretch: normal;
@@ -230,7 +231,7 @@
   .Group-889 .Your-board-your-language2 {
     width: 681px;
     height: 58px;
-    font-family: Montserrat;
+    font-family: 'Montserrat';
     font-size: 48px;
     font-weight: bold;
     font-stretch: normal;
