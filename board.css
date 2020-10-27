@@ -1,152 +1,124 @@
-.topnav {
-    background-color: #ffffff;
-    overflow: hidden;
+.topnav{
+  width: 1920px;
+  height: 140px;
+  object-fit: contain;
+  
   }
-  
- 
-  /* .topnav a {
-    float: left;
-    display: block;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-  }
-  
-  
-  .topnav a:hover {
-    background-color: #ddd;
-    color: black;
-  }
-  
-  .topnav a.active {
-    background-color: #4CAF50;
-    color: white;
-  }
-  
-  .topnav .icon {
-    display: none;
-  }*/
 
-  .topnav{
-      width: 960px;
-      height: 70px;
+  .topnav a{
+    text-decoration: none;
   }
 
   .logo{
-    width: 153px;
-    height: 41px;
+    width: 306px;
+    height: 82px;
     object-fit: contain;
-    margin-left: 29.5px;
-    margin-top: 11px;
-    margin-bottom: 18px;
+    margin-left: 59px;
+    margin-top: 22px;
+    margin-bottom: 36px;
   }
 
   .Live-Classes {
-    width: 88px;
-    height: 17px;
+    width: 201px;
+    height: 39px;
     object-fit: contain;
     font-family: Montserrat;
-    font-size: 14px;
+    font-size: 32px;
     font-weight: bold;
     font-stretch: normal;
     font-style: normal;
-    line-height: 1.21;
+    line-height: 1.22;
     letter-spacing: normal;
     text-align: left;
     color: #4b4b4b;
-    margin-left: 326.5px;
-    margin-top: 25.5px;
-    margin-bottom: 25px;
+    margin-top: 51px;
+    margin-bottom: 50px;
+    margin-left: 288px;
+    text-decoration: none;
+
   }
 
   .Video-Library {
-    width: 97.5px;
-    height: 17px;
+    width: 223px;
+    height: 39px;
     object-fit: contain;
     font-family: Montserrat;
-    font-size: 14px;
+    font-size: 32px;
     font-weight: bold;
     font-stretch: normal;
     font-style: normal;
-    line-height: 1.21;
+    line-height: 1.22;
     letter-spacing: normal;
     text-align: left;
     color: #4b4b4b;
-    margin-left: 40px;
-    margin-top: 45.5px;
+    margin-top: 51px;
+    margin-bottom: 50px;
+    margin-left: 109px;
   }
 
   .Course {
-    width: 51px;
-    height: 17px;
+    width: 117px;
+    height: 39px;
     object-fit: contain;
     font-family: Montserrat;
-    font-size: 14px;
+    font-size: 32px;
     font-weight: bold;
     font-stretch: normal;
     font-style: normal;
-    line-height: 1.21;
+    line-height: 1.22;
     letter-spacing: normal;
     text-align: left;
     color: #4b4b4b;
-    margin-right: 40.5px;
-    margin-left: 40px;
-    margin-top: 45.5px;
+    margin-top: 51px;
+    margin-bottom: 50px;
+    margin-left: 109px; 
+    
   }
 
   .Book {
-    width: 38.5px;
-    height: 17px;
+    width: 88px;
+    height: 39px;
     object-fit: contain;
     font-family: Montserrat;
-    font-size: 14px;
+    font-size: 32px;
     font-weight: bold;
     font-stretch: normal;
     font-style: normal;
-    line-height: 1.21;
+    line-height: 1.22;
     letter-spacing: normal;
     text-align: left;
     color: #4b4b4b;
+    margin-top: 51px;
+    margin-bottom: 50px;
+    margin-left: 109px;
   }
 
   .Board {
-    width: 44px;
-    height: 17px;
+    width: 101px;
+    height: 39px;
     object-fit: contain;
     font-family: Montserrat;
-    font-size: 14px;
+    font-size: 32px;
     font-weight: bold;
     font-stretch: normal;
     font-style: normal;
-    line-height: 1.21;
+    line-height: 1.22;
     letter-spacing: normal;
     text-align: left;
     color: #4b4b4b;
-    margin-left: 40px;
-    margin-top: 45.5px;
+    margin-top: 51px;
+    margin-bottom: 50px;
+    margin-left: 109px;
+    
   }
 
-  .Exam {
-    width: 41px;
-    height: 17px;
-    object-fit: contain;
-    font-family: Montserrat;
-    font-size: 14px;
-    font-weight: bold;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.21;
-    letter-spacing: normal;
-    text-align: left;
-    color: #4b4b4b;
-  }
+ 
 
   .Group-408 {
-    width: 518.5px;
-    height: 237.5px;
-    object-fit: contain;
+      width: 1037px;
+      height: 475px;
+      object-fit: contain;
+    
   }
 
 
@@ -157,11 +129,11 @@
   }
 
   .Conquer-your-School-Exams-with-Us {
-    width: 727.5px;
-    height: 44.5px;
+    width: 1455px;
+    height: 89px;
     object-fit: contain;
     font-family: Montserrat;
-    font-size: 36.5px;
+    font-size: 73px;
     font-weight: 900;
     font-stretch: normal;
     font-style: normal;
@@ -169,20 +141,21 @@
     letter-spacing: normal;
     text-align: left;
     color: #4b4b4b;
-    margin-left: 116.5px;
-    margin-right: 116px;
-    margin-top: 119px;
+    margin-left: 233px;
+    margin-right: 232px;
   }
   .Conquer-your-School-Exams-with-Us .text-style-1 {
     color: #1d4191;
   }
 
+
+
   .Your-board-your-language1 {
-    width: 340.5px;
-    height: 29px;
+    width: 681px;
+    height: 58px;
     object-fit: contain;
     font-family: Montserrat;
-    font-size: 24px;
+    font-size: 48px;
     font-weight: bold;
     font-stretch: normal;
     font-style: normal;
@@ -190,60 +163,60 @@
     letter-spacing: normal;
     text-align: left;
     color: #4b4b4b;
-    margin-left: 310px;
-    margin-top: 16px;
+    margin-left: 620px;
+    margin-right: 619px;
     
   }
   .btn1{
-    width: 179px;
-    height: 32.5px;
+    width: 358px;
+    height: 65px;
+    object-fit: contain;
     border-radius: 10px;
     background-color: #d60b3c;
     object-fit: contain;
-    margin-left: 390.5px;
-    margin-right: 390.5px;
-    margin-top: 29px;
+    margin-left: 781px;
+    margin-right: 781px;
+    margin-top: 58px;
     border-color: none;
     }
 
   .Start-preparing-now {
-    width: 140.5px;
-    height: 17px;
+    width: 281px;
+    height: 34px;
     font-family: Roboto;
-    font-size: 13px;
+    font-size: 26px;
     font-weight: 500;
     font-stretch: normal;
     font-style: normal;
     line-height: 1.31;
-    letter-spacing: 1.16px;
+    letter-spacing: 2.32px;
     text-align: left;
-    margin-top: 16.25;
     color: #ffffff;
   }
 
   .gummy-app-development {
-    width: 531.2px;
-    height: 239px;
+    width: 1062.3px;
+    height: 478px;
     object-fit: contain;
-    margin-left: 214.5px;
-    margin-top: 44px;
-    margin-right: 214.3px;
+    margin-top: 88px;
+    margin-left: 429px;
+    margin-right: 428.7px;
   }
 
   .Group-889 {
-    width: 340.5px;
-    height: 89px;
+    width: 681px;
+    height: 178px;
     object-fit: contain;
-    margin-left: 50px;
-    margin-top: 48px;
-    margin-right: 569.5px;
+    margin-top: 96px;
+    margin-left: 100px;
+    margin-right: 1139px; 
   }
 
   .State-Boards {
-    width: 250px;
-    height: 44px;
+    width: 500px;
+    height: 88px;
     font-family: Montserrat;
-    font-size: 36px;
+    font-size: 72px;
     font-weight: 900;
     font-stretch: normal;
     font-style: normal;
@@ -254,11 +227,11 @@
     margin-left: 50px;
   }
 
-  .Your-board-your-language2 {
-    width: 340.5px;
-    height: 29px;
+  .Group-889 .Your-board-your-language2 {
+    width: 681px;
+    height: 58px;
     font-family: Montserrat;
-    font-size: 24px;
+    font-size: 48px;
     font-weight: bold;
     font-stretch: normal;
     font-style: normal;
@@ -288,22 +261,22 @@
   
 
   .Rectangle-705 {
-    width: 719.5px;
-    height: 1609px;
+    width: 1439px;
+    height: 3218px;
     object-fit: contain;
-    border-radius: 13.5px;
-    box-shadow: 0 1.5px 3px 0 rgba(0, 0, 0, 0.16);
+    border-radius: 27px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
     background-color: #ffffff;
-   
+    margin-top: 25px;
   }
 
 
   .Uttar-Pradesh-Board {
-    width: 256.5px;
-    height: 29px;
+    width: 513px;
+    height: 58px;
     object-fit: contain;
     font-family: Montserrat;
-    font-size: 24px;
+    font-size: 48px;
     font-weight: bold;
     font-stretch: normal;
     font-style: normal;
@@ -311,16 +284,17 @@
     letter-spacing: normal;
     text-align: left;
     color: #1e4190;
-    margin-left: 201px;
-    margin-top: 14px;
+    margin-left: 402px;
+    margin-right: 524px;
+    margin-top: 28px;
   }
   
   .Conquer-your-boards-and-learn-every-concept-with-us {
-    width: 516px;
-    height: 23.5px;
+    width: 1032px;
+    height: 47px;
     object-fit: contain;
     font-family: Montserrat;
-    font-size: 19px;
+    font-size: 38px;
     font-weight: 500;
     font-stretch: normal;
     font-style: normal;
@@ -328,17 +302,17 @@
     letter-spacing: normal;
     text-align: left;
     color: #4b4b4b;
-    margin-left: 71px;
-    margin-top: 4.5px;
-    margin-right: 167px;
+    margin-top: 9px;
+    margin-left: 142px; 
+    margin-right: 265px;
   }
 
   .Class-12 {
-    width: 102.5px;
-    height: 29px;
+    width: 205px;
+    height: 58px;
     object-fit: contain;
     font-family: Montserrat;
-    font-size: 24px;
+    font-size: 48px;
     font-weight: bold;
     font-stretch: normal;
     font-style: normal;
@@ -346,199 +320,208 @@
     letter-spacing: normal;
     text-align: left;
     color: #1e4190;
-    margin-left: 16px;
+    margin-left: 32px;
   }
 
   
 
   .state-subjects{
       display: inline-flex;
+      margin-top: 25px;
   }
     .Maharashtra {
-        width: 77px;
-        height: 17px;
-        object-fit: contain;
-        font-family: Roboto;
-        font-size: 13px;
-        font-weight: 500;
-        font-stretch: normal;
-        font-style: normal;
-        line-height: 1.31;
-        letter-spacing: 1.16px;
-        text-align: left;
-        color: #1e4190;
-        margin-left: 68.5px;
-        margin-top: 121px;
+      width: 154px;
+      height: 34px;
+      object-fit: contain;
+      font-family: Roboto;
+      font-size: 26px;
+      font-weight: 500;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.31;
+      letter-spacing: 2.32px;
+      text-align: left;
+      color: #1e4190;
+      margin-left: 137px;
+      margin-top: 242px;
+    }
+
+    .Rectangle-377 {
+      width: 412px;
+      height: 65px;
+      object-fit: contain;
+      border: solid 2px #d60b3c;
+      background-color: #db0c3e;
     }
 
   
     .Uttar-Pradesh {
-        width: 94px;
-        height: 17px;
-        object-fit: contain;
-        font-family: Roboto;
-        font-size: 13px;
-        font-weight: 500;
-        font-stretch: normal;
-        font-style: normal;
-        line-height: 1.31;
-        letter-spacing: 1.16px;
-        text-align: left;
-        color: #ffffff;
-        margin-left: 60.5px;
-        margin-top: 23.5px;
+      width: 188px;
+      height: 34px;
+      object-fit: contain;
+      font-family: Roboto;
+      font-size: 26px;
+      font-weight: 500;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.31;
+      letter-spacing: 2.32px;
+      text-align: left;
+      color: #ffffff;
+      margin-left: 121px;
+      margin-top: 16px;
     }
 
     .Andhra-Pradesh {
-        width: 108px;
-        height: 17px;
-        object-fit: contain;
-        font-family: Roboto;
-        font-size: 13px;
-        font-weight: 500;
-        font-stretch: normal;
-        font-style: normal;
-        line-height: 1.31;
-        letter-spacing: 1.16px;
-        text-align: left;
-        color: #1e4190;
-        margin-left: 56px;
-        margin-top: 24px;
+      width: 216px;
+      height: 34px;
+      object-fit: contain;
+      font-family: Roboto;
+      font-size: 26px;
+      font-weight: 500;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.31;
+      letter-spacing: 2.32px;
+      text-align: left;
+      color: #1e4190;
+      margin-left: 112px;
+      margin-top: 24px;
       }
 
       .Gujarat {
-        width: 49px;
-        height: 17px;
+        width: 98px;
+        height: 34px;
         object-fit: contain;
         font-family: Roboto;
-        font-size: 13px;
+        font-size: 26px;
         font-weight: 500;
         font-stretch: normal;
         font-style: normal;
         line-height: 1.31;
-        letter-spacing: 1.16px;
+        letter-spacing: 2.32px;
         text-align: left;
         color: #1e4190;
-        margin-left: 82px;
-        margin-top: 23.5px;
+        margin-left: 164px;
+        margin-top: 47px;
       }
 
       .Punjab {
-        width: 46px;
-        height: 17px;
+        width: 92px;
+        height: 34px;
         object-fit: contain;
         font-family: Roboto;
-        font-size: 13px;
+        font-size: 26px;
         font-weight: 500;
         font-stretch: normal;
         font-style: normal;
         line-height: 1.31;
-        letter-spacing: 1.16px;
+        letter-spacing: 2.32px;
         text-align: left;
         color: #1e4190;
-        margin-left: 83.5px;
-        margin-top: 23.5px;
+        margin-left: 167px;
+        margin-top: 47px;
       }
 
       .Kerala {
-        width: 42.5px;
-        height: 17px;
+        width: 85px;
+        height: 34px;
         object-fit: contain;
         font-family: Roboto;
-        font-size: 13px;
+        font-size: 26px;
         font-weight: 500;
         font-stretch: normal;
         font-style: normal;
         line-height: 1.31;
-        letter-spacing: 1.16px;
+        letter-spacing: 2.32px;
         text-align: left;
         color: #1e4190;
-        margin-left: 85.5px;
-        margin-top: 23.5px;
+        margin-left: 171px;
+        margin-top: 47px;
       }
 
       .Madhya-Pradesh {
-        width: 112.5px;
-        height: 17px;
+        width: 225px;
+        height: 34px;
         object-fit: contain;
         font-family: Roboto;
-        font-size: 13px;
+        font-size: 26px;
         font-weight: 500;
         font-stretch: normal;
         font-style: normal;
         line-height: 1.31;
-        letter-spacing: 1.16px;
+        letter-spacing: 2.32px;
         text-align: left;
         color: #1e4190;
-        margin-left: 50px;
-        margin-top: 23.5px;
+        margin-left: 100px;
+        margin-top: 47px;
       }
 
       
 
-  .Maths {
-    width: 51.5px;
-    height: 19.5px;
-    object-fit: contain;
-    font-family: Montserrat;
-    font-size: 16px;
-    font-weight: bold;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.22;
-    letter-spacing: normal;
-    text-align: left;
-    color: #1e4190;
-    margin-left: 55px;
-  }
+    .Maths {
+      width: 103px;
+      height: 39px;
+      object-fit: contain;
+      font-family: Montserrat;
+      font-size: 32px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.22;
+      letter-spacing: normal;
+      text-align: left;
+      color: #1e4190;
+      margin-left: 110px;
+    }
 
-  .Physics {
-    width: 63.5px;
-    height: 19.5px;
-    object-fit: contain;
-    font-family: Montserrat;
-    font-size: 16px;
-    font-weight: bold;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.22;
-    letter-spacing: normal;
-    text-align: left;
-    color: #1e4190;
-    margin-left: 49px;
-  }
+    .Physics {
+      width: 127px;
+      height: 39px;
+      object-fit: contain;
+      font-family: Montserrat;
+      font-size: 32px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.22;
+      letter-spacing: normal;
+      text-align: left;
+      color: #1e4190;
+      margin-left: 98px;
+    }
 
-  .Biology {
-    width: 63.5px;
-    height: 19.5px;
-    object-fit: contain;
-    font-family: Montserrat;
-    font-size: 16px;
-    font-weight: bold;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.22;
-    letter-spacing: normal;
-    text-align: left;
-    color: #1e4190;
-    margin-left: 49px;
-  }
+    .Biology {
+      width: 127px;
+      height: 39px;
+      object-fit: contain;
+      font-family: Montserrat;
+      font-size: 32px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.22;
+      letter-spacing: normal;
+      text-align: left;
+      color: #1e4190;
+      margin-left: 98px;
+    }
 
-  .Chemistry {
-    width: 87px;
-    height: 19.5px;
-    object-fit: contain;
-    font-family: Montserrat;
-    font-size: 16px;
-    font-weight: bold;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.22;
-    letter-spacing: normal;
-    text-align: left;
-    color: #1e4190;
-    margin-left: 37px;
-  }
+    .Chemistry {
+      width: 174px;
+      height: 39px;
+      object-fit: contain;
+      font-family: Montserrat;
+      font-size: 32px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.22;
+      letter-spacing: normal;
+      text-align: left;
+      color: #1e4190;
+      margin-left: 74px;
+    }
     .math{
         display: inline-flex;
     }
