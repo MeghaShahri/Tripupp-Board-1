@@ -287,6 +287,7 @@
       box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
       background-color: #ffffff;
       margin-top: 25px;
+      margin-right: 69px;
     }
 
 
@@ -637,6 +638,12 @@
         #math-4{
           margin-left: 76px;
     
+        }
+        #book-4{
+          width: 86px;
+          height: 63px;
+          margin:17px 57px 17px 57px;
+
         }
     
         .SL-Arora{
@@ -1027,46 +1034,64 @@
     }
 
     #math-10{
-      margin-left:37px ;
+      margin-left:49.66px ;
+      margin-top: 33px;
 
     }
     #math-9{
       margin-left:37px ;
+      margin-top: 33px;
 
     }
     #math-8{
       margin-left:37px ;
+      margin-top: 33px;
 
     }
     #math-7{
       margin-left:37px ;
+      margin-top: 33px;
 
     }
     #math-6{
       margin-left:37px ;
+      margin-top: 33px;
 
     }
 
     #sci-10{
-      margin-left: 40px;
+      margin-left: 101px;
+      margin-top: 33px;
     }
     #sci-9{
-      margin-left: 40px;
+      margin-left: 101px;
+      margin-top: 33px;
     }
     #sci-8{
-      margin-left: 40px;
+      margin-left: 101px;
+      margin-top: 33px;
     }
     #sci-7{
-      margin-left: 40px;
+      margin-left: 101px;
+      margin-top: 33px;
     }
     #sci-6{
-      margin-left: 40px;
+      margin-left: 101px;
+      margin-top: 33px;
     }
 
     #math-sci{
       width: 93px;
       height: 93px;
       margin-left: 96px;
+      margin-top: 21.9px;
+    }
+
+    #math-sci2{
+      width: 93px;
+      height: 93px;
+      margin-left: 96px;
+      margin-top: 25px;
     }
 
     .Rectangle-739 {
@@ -1076,6 +1101,150 @@
       box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.3);
       background-color: #ffffff;
       /* margin-right: 410px; */
+    }
+
+    
+
+    .Rectangle-740 {
+      width: 1920px;
+      height: 161px;
+      object-fit: contain;
+      border: solid 1px #707070;
+      display: inline-flex;
+      background-color: #1e4190;
+      margin-top: 106px;
+    }
+
+    .Rectangle-cbse{
+      width: 960px;
+      height: 161px;
+    }
+
+    .CBSE {
+      width: 205px;
+      height: 88px;
+      object-fit: contain;
+      font-family: Montserrat;
+      font-size: 72px;
+      font-weight: 900;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.22;
+      letter-spacing: normal;
+      text-align: left;
+      color: #ffffff;
+      margin-left: 348px;
+      margin-top: 36px;
+      margin-bottom: 37px;
+    }
+
+
+    .Rectangle-741 {
+      width: 960px;
+      height: 161px;
+      object-fit: contain;
+      opacity: 0.46;
+      border: solid 1px #707070;
+      background-color: #ffffff;
+    }
+
+    .ICSE {
+      width: 174px;
+      height: 88px;
+      object-fit: contain;
+      font-family: Montserrat;
+      font-size: 72px;
+      font-weight: 900;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.22;
+      letter-spacing: normal;
+      text-align: left;
+      color: #ffffff;
+      margin-left: 393px;
+      margin-top: 37px;
+      margin-bottom: 37px;
+    }
+
+    .cbse-icse{
+      
+      display: inline-flex;
+     
+    }
+
+    .cbse-icse .cbse{
+      width: 960px;
+    }
+
+    .cbse-icse .icse{
+      width: 960px;
+    }
+
+    .cbse-icse .cbse .Class-12 {
+      width: 205px;
+      height: 58px;
+      object-fit: contain;
+      font-family: Montserrat;
+      font-size: 48px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.21;
+      letter-spacing: normal;
+      text-align: left;
+      color: #1e4190;
+      margin-left: 85px;
+      margin-top: 90px;
+    }
+
+    .cbse-icse .icse .Class-11 {
+      width: 195px;
+      height: 58px;
+      object-fit: contain;
+      font-family: Montserrat;
+      font-size: 48px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.21;
+      letter-spacing: normal;
+      text-align: left;
+      color: #1e4190;
+      margin-left: 733px;
+      margin-top: 90px;
+    }
+
+    .cbse-math{
+      display: inline-flex;
+    }
+
+    .cbse-math .cards{
+      display: inline-flex;
+      margin-top: 25px;
+      
+    }
+    #cbse-math-1{
+      margin-left: 230px;
+    }
+
+
+      
+
+    .cbse-m {
+      width: 103px;
+      height: 39px;
+      object-fit: contain;
+      font-family: Montserrat;
+      font-size: 32px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.22;
+      letter-spacing: normal;
+      text-align: left;
+      color: #1e4190;
+      margin-top: 67px;
+      margin-left: 163px;
     }
     
     
