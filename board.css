@@ -2,8 +2,29 @@
   width: 1920px;
   height: 140px;
   object-fit: contain;
+  /* background-image: url("images/Group-408.svg");
+  background-position: right top; */
   
   }
+
+  #nav-image{
+    background-image: url(images/Group-408.svg);
+    
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 1037px;
+    height: 475px;
+    margin-left: 1920px;
+    
+   
+  }
+
+  .Group-408 {
+    width: 1037px;
+    height: 475px;
+    object-fit: contain;
+  }
+  
 
   .topnav a{
     text-decoration: none;
@@ -112,15 +133,12 @@
     
   }
 
- 
-
   .Group-408 {
       width: 1037px;
       height: 475px;
       object-fit: contain;
     
   }
-
 
   .Board-conquer {
     width: 960px;
@@ -244,32 +262,32 @@
   }
 
   .Ellipse-90 {
-    width: 375px;
-    height: 237.5px;
+    width: 750px;
+    height: 475px;
     opacity: 0.05;
-    border: solid 0.5px #707070;
+    border: solid 1px #707070;
     background-image: linear-gradient(to bottom, #4baea0, #5268ba);
-    margin-left: 585px;
-    margin-top: 0px;
   }
   .Ellipse-91 {
-    width: 518.5px;
-    height: 135px;
+    width: 1037px;
+    height: 270px;
     opacity: 0.05;
-    border: solid 0.5px #707070;
+    border: solid 1px #707070;
     background-image: linear-gradient(to bottom, #4baea0, #5268ba);
   }
+
+
   
 
-  .Rectangle-705 {
-    width: 1439px;
-    height: 3218px;
-    object-fit: contain;
-    border-radius: 27px;
-    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
-    background-color: #ffffff;
-    margin-top: 25px;
-  }
+    .Rectangle-705 {
+      width: 1439px;
+      height: 3218px;
+      object-fit: contain;
+      border-radius: 27px;
+      box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+      background-color: #ffffff;
+      margin-top: 25px;
+    }
 
 
   .Uttar-Pradesh-Board {
@@ -458,54 +476,322 @@
         margin-top: 47px;
       }
 
+      .Maths {
+        width: 103px;
+        height: 39px;
+        object-fit: contain;
+        font-family: Montserrat;
+        font-size: 32px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.22;
+        letter-spacing: normal;
+        text-align: left;
+        color: #1e4190;
+        margin-left: 110px;
+        margin-top: 67px;
+      }
+    
+      .Rectangle-705 .cards{
+        display: inline-flex;    
+      }
+    
+    
+      .math{
+        display: inline-flex;
+       }
+
+        .cards .card1{
+          width: 194px;
+          height: 132px;
+          object-fit: contain;
+          border-radius: 10px;
+          box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.3);
+          background-color: #ffffff;
+          
+        }
+    
+        .card1 .Rectangle-665 {
+          width: 194px;
+          height: 94px;
+          background-color: #4baea0;
+    
+        }
+        #math-1{
+          margin-left: 127px;
+        }
+    
+    
+        .Pradeeps {
+          width: 98px;
+          height: 23px;
+          font-family: Montserrat;
+          font-size: 19px;
+          font-weight: bold;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: 1.21;
+          letter-spacing: normal;
+          text-align: left;
+          color: #1e4091;
+          margin-left: 47px;
+          margin-right: 49px;
+          margin-bottom: 11px;
+          
+        }
+    
+        .cards .card2{
+          width: 195px;
+          height: 131px;
+          object-fit: contain;
+          border-radius: 10px;
+          box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.3);
+          background-color: #ffffff;
+          
+          
+        }
       
+        .card2 .Rectangle-662 {
+          width: 195px;
+          height: 93px;
+          background-color: #f1d4d4;
+        }
+    
+        #math-2{
+          margin-left: 77px;
+        }
+    
+        .NCERT{
+          width: 64px;
+          height: 22px;
+          font-family: Montserrat;
+          font-size: 18px;
+          font-weight: bold;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: 1.22;
+          letter-spacing: normal;
+          text-align: left;
+          color: #1e4091;
+          margin-left: 66px;
+          margin-bottom: 14px;
+        }
+    
+    
+        .cards .card3{
+          width: 195px;
+          height: 131px;
+          object-fit: contain;
+          border-radius: 10px;
+          box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.3);
+          background-color: #ffffff;
+    
+        }
+    
+        .card3 .Rectangle-663 {
+          width: 195px;
+          height: 93px;
+          background-color: #ffe9d6;
+          
+        }
+    
+        #math-3{
+          margin-left: 77px;
+    
+        }
+    
+        .KC-Sinha{
+          width: 89px;
+          height: 23px;
+          font-family: Montserrat;
+          font-size: 19px;
+          font-weight: bold;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: 1.21;
+          letter-spacing: normal;
+          text-align: left;
+          color: #1e4091;
+          margin-left: 53px;
+          margin-bottom: 13px;
+        }
+    
+        .cards .card4{
+          width: 194px;
+          height: 132px;
+          object-fit: contain;
+          border-radius: 10px;
+          box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.3);
+          background-color: #ffffff;
+    
+        }
+    
+        .card4 .Rectangle-666{
+          width: 194px;
+          height: 94px;
+          background-color: #e9efff;
+    
+        }
+    
+        #math-4{
+          margin-left: 76px;
+    
+        }
+    
+        .SL-Arora{
+          width: 83px;
+          height: 23px;
+          font-family: Montserrat;
+          font-size: 19px;
+          font-weight: bold;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: 1.21;
+          letter-spacing: normal;
+          text-align: left;
+          color: #1e4091;
+          margin-left: 55px;
+          margin-bottom: 11px;
+    
+        }
 
-    .Maths {
-      width: 103px;
-      height: 39px;
-      object-fit: contain;
-      font-family: Montserrat;
-      font-size: 32px;
-      font-weight: bold;
-      font-stretch: normal;
-      font-style: normal;
-      line-height: 1.22;
-      letter-spacing: normal;
-      text-align: left;
-      color: #1e4190;
-      margin-left: 110px;
-    }
+        
+        .phy{
+          display: inline-flex;
+      }
 
-    .Physics {
-      width: 127px;
-      height: 39px;
-      object-fit: contain;
-      font-family: Montserrat;
-      font-size: 32px;
-      font-weight: bold;
-      font-stretch: normal;
-      font-style: normal;
-      line-height: 1.22;
-      letter-spacing: normal;
-      text-align: left;
-      color: #1e4190;
-      margin-left: 98px;
-    }
+    
+        .Physics {
+          width: 127px;
+          height: 39px;
+          object-fit: contain;
+          font-family: Montserrat;
+          font-size: 32px;
+          font-weight: bold;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: 1.22;
+          letter-spacing: normal;
+          text-align: left;
+          color: #1e4190;
+          margin-left: 98px;
+          margin-top: 88px;
+        }
+    
+        .cards .card5{
+          width: 191px;
+          height: 130px;
+          object-fit: contain;
+          border-radius: 10px;
+          box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.3);
+          background-color: #ffffff;
+          
+        }
+    
+        .card5 .Rectangle-665 {
+          width: 191px;
+          height: 93px;
+          background-color: #4baea0;
+        }
+    
+        #phy-1{
+          margin-left: 115px;
+          margin-top: 49px;
+        }
+    
+        .cards .card6{
+          width: 192px;
+          height: 129px;
+          object-fit: contain;
+          border-radius: 10px;
+          box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.3);
+          background-color: #ffffff;
+          
+        }
+    
+        .card6 .Rectangle-662 {
+          width: 192px;
+          height: 91px;
+          background-color: #f1d4d4;
+        }
+    
+    
+        #phy-2{
+          margin-left: 80px;
+          margin-top: 50px;
+        }
+    
+        .cards .card7{
+          width: 192px;
+          height: 129px;
+          object-fit: contain;
+          border-radius: 10px;
+          box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.3);
+          background-color: #ffffff;
+          
+        }
+    
+        .card7 .Rectangle-663 {
+          width: 192px;
+          height: 91px;
+          background-color: #ffe9d6;
+        }
+    
+        #phy-3{
+          margin-left: 80px;
+          margin-top: 49px;
+        }
+    
+        #phy-4{
+          margin-left: 79px;
+          margin-top: 50px;
+        }
+    
 
-    .Biology {
-      width: 127px;
-      height: 39px;
-      object-fit: contain;
-      font-family: Montserrat;
-      font-size: 32px;
-      font-weight: bold;
-      font-stretch: normal;
-      font-style: normal;
-      line-height: 1.22;
-      letter-spacing: normal;
-      text-align: left;
-      color: #1e4190;
-      margin-left: 98px;
+        .bio{
+          display: inline-flex;
+      }  
+    
+      .Biology {
+        width: 127px;
+        height: 39px;
+        object-fit: contain;
+        font-family: Montserrat;
+        font-size: 32px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.22;
+        letter-spacing: normal;
+        text-align: left;
+        color: #1e4190;
+        margin-left: 98px;
+        margin-top: 86px;
+      }
+
+      #bio-1{
+        margin-left:115px;
+        margin-top: 50px;
+      }
+      #bio-2{
+        margin-left:80px;
+        margin-top: 51px;
+
+      }
+      #bio-3{
+        margin-left:77px;
+        margin-top: 51px;
+
+      }
+      #bio-4{
+        margin-left:75px;
+        margin-top: 48px;
+
+      }
+
+      .chem{
+        display: inline-flex;
     }
 
     .Chemistry {
@@ -522,95 +808,280 @@
       text-align: left;
       color: #1e4190;
       margin-left: 74px;
+      margin-top: 84px;
+      
     }
-    .math{
-        display: inline-flex;
+
+    #chem-1{
+      margin-left: 92px;
+      margin-top: 51px;
     }
 
     
-    .phy{
-        display: inline-flex;
-    }
-
-    .bio{
-        display: inline-flex;
-    }
-
-    .chem{
-        display: inline-flex;
-    }
-
-    .math .cards{
-        margin-left: 63.5px;
-    }
-
-    .phy .cards, .bio .cards{
-        margin-left:57.5px;
-    }
-
-    .chem .cards{
-        margin-left: 46px;
+    #chem-2{
+      margin-left: 80px;
+      margin-top: 50px;
     }
 
     
-
-    #ncert{
-        margin-left: 40px;
+    #chem-3{
+      margin-left: 80px;
+      margin-top: 49px;
     }
 
-    #kc{
-        margin-left: 38.5px;
-    }
-    #sl{
-        margin-left: 38px;
-        margin-right: 47px;
+    
+    #chem-4{
+      margin-left: 79px;
+      margin-top: 49px;
     }
 
-    .Rectangle-705 .cards{
-        display: inline-flex;    
+    #book{
+      width: 86px;
+      height: 63px;
+      margin: auto;
     }
 
-    .cards .Group-817 {
-      width: 97px;
-      height: 66px;
+    .Class-11 {
+      width: 195px;
+      height: 58px;
       object-fit: contain;
-        
-      }
-      .Group-818 {
-        width: 97.5px;
-        height: 65.5px;
-        object-fit: contain;
-      }
-      .Group-820 {
-        width: 97px;
-        height: 66px;
-        object-fit: contain;
-      }
+      font-family: Montserrat;
+      font-size: 48px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.21;
+      letter-spacing: normal;
+      text-align: left;
+      color: #1e4190;
+      margin-left: 32px;
+      margin-top: 42px;
+    }
 
-    .Rectangle-665 {
-        width: 97px;
-        height: 47px;
-        background-color: #4baea0;
-      }
+    .Group-831 {
+      width: 955px;
+      height: 205px;
+      object-fit: contain;
+      display: inline-flex;
+      margin-top: 97px;
+      margin-left: 74px;
+      margin-right: 410px;
+    }
+    
 
-      .Rectangle-662 {
-        width: 97.5px;
-        height: 46.5px;
-        background-color: #f1d4d4;
-      }
-      .Rectangle-663 {
-        width: 97.5px;
-        height: 46.5px;
-        background-color: #ffe9d6;
-      }
+    .Class-10 {
+      width: 209px;
+      height: 58px;
+      font-family: Montserrat;
+      font-size: 48px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.21;
+      letter-spacing: normal;
+      text-align: left;
+      color: #1e4190;
+      margin-top: 69px;
+      margin-bottom: 78px;
+    }
 
-      .Rectangle-666 {
-        width: 97px;
-        height: 47px;
-        background-color: #e9efff;
-      }
+    .Rectangle-738 {
+      width: 303px;
+      height: 205px;
+      border-radius: 10px;
+      box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.3);
+      background-color: #ffffff;
+    }
 
+    .later-Maths {
+      width: 97px;
+      height: 37px;
+      font-family: 'Montserrat';
+      font-size: 30px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.23;
+      letter-spacing: normal;
+      text-align: left;
+      color: #1e4091;
+    }
 
+    .Science {
+      width: 122px;
+      height: 37px;
+      font-family: 'Montserrat';
+      font-size: 30px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.23;
+      letter-spacing: normal;
+      text-align: left;
+      color: #1e4091;
+    }
+
+    
+
+    .Group-832 {
+      width: 955px;
+      height: 205px;
+      object-fit: contain;
+      display: inline-flex;
+      margin-left: 74px;
+      margin-top: 51px;
+    }
+
+    .Class-9 {
+      width: 188px;
+      height: 58px;
+      font-family: Montserrat;
+      font-size: 48px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.21;
+      letter-spacing: normal;
+      text-align: left;
+      color: #1e4190;
+      margin-top: 69px;
+      margin-bottom: 78px;
+    }
+
+   
+
+    .Group-833 {
+      width: 955px;
+      height: 205px;
+      object-fit: contain;
+      display: inline-flex;
+      margin-left: 74px;
+      margin-top: 51px;
+    }
+
+    .Class-8 {
+      width: 189px;
+      height: 58px;
+      font-family: Montserrat;
+      font-size: 48px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.21;
+      letter-spacing: normal;
+      text-align: left;
+      color: #1e4190;
+      margin-top: 69px;
+      margin-bottom: 78px;
+    }
+
+    .Group-834 {
+      width: 955px;
+      height: 205px;
+      object-fit: contain;
+      display: inline-flex;
+      margin-left: 74px;
+      margin-top: 51px;
+    }
+
+    .Class-7 {
+      width: 187px;
+      height: 58px;
+      font-family: Montserrat;
+      font-size: 48px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.21;
+      letter-spacing: normal;
+      text-align: left;
+      color: #1e4190;
+      margin-top: 69px;
+      margin-bottom: 78px;
+    }
+
+    .Group-835 {
+      width: 955px;
+      height: 205px;
+      object-fit: contain;
+      display: inline-flex;
+      margin-left: 74px;
+      margin-top: 51px;
+      margin-right: 410px;
+    }
+
+    .Class-6 {
+      width: 188px;
+      height: 58px;
+      font-family: Montserrat;
+      font-size: 48px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.21;
+      letter-spacing: normal;
+      text-align: left;
+      color: #1e4190;
+      margin-top: 69px;
+      margin-bottom: 78px;
+    }
+
+    #math-10{
+      margin-left:37px ;
+
+    }
+    #math-9{
+      margin-left:37px ;
+
+    }
+    #math-8{
+      margin-left:37px ;
+
+    }
+    #math-7{
+      margin-left:37px ;
+
+    }
+    #math-6{
+      margin-left:37px ;
+
+    }
+
+    #sci-10{
+      margin-left: 40px;
+    }
+    #sci-9{
+      margin-left: 40px;
+    }
+    #sci-8{
+      margin-left: 40px;
+    }
+    #sci-7{
+      margin-left: 40px;
+    }
+    #sci-6{
+      margin-left: 40px;
+    }
+
+    #math-sci{
+      width: 93px;
+      height: 93px;
+      margin-left: 96px;
+    }
+
+    .Rectangle-739 {
+      width: 303px;
+      height: 205px;
+      border-radius: 10px;
+      box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.3);
+      background-color: #ffffff;
+      /* margin-right: 410px; */
+    }
+    
+    
+    
+
+   
 
 
 
