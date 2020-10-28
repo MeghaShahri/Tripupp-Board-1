@@ -910,8 +910,9 @@
       font-style: normal;
       line-height: 1.23;
       letter-spacing: normal;
-      text-align: left;
+      text-align: center;
       color: #1e4091;
+      margin:auto
     }
 
     .Science {
@@ -924,8 +925,9 @@
       font-style: normal;
       line-height: 1.23;
       letter-spacing: normal;
-      text-align: left;
+      text-align: center;
       color: #1e4091;
+      margin:auto
     }
 
     
