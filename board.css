@@ -910,9 +910,9 @@
       font-style: normal;
       line-height: 1.23;
       letter-spacing: normal;
-     
       color: #1e4091;
       margin:auto;
+      margin-top: 33px;
     }
 
     .Science {
@@ -925,9 +925,9 @@
       font-style: normal;
       line-height: 1.23;
       letter-spacing: normal;
-      
       color: #1e4091;
       margin:auto;
+      margin-top: 33px;
     }
 
     
@@ -1041,22 +1041,22 @@
 
     }
     #math-9{
-      margin-left:37px ;
+      margin-left:66px ;
       margin-top: 33px;
 
     }
     #math-8{
-      margin-left:37px ;
+      margin-left:66px ;
       margin-top: 33px;
 
     }
     #math-7{
-      margin-left:37px ;
+      margin-left:66px ;
       margin-top: 33px;
 
     }
     #math-6{
-      margin-left:37px ;
+      margin-left:66px ;
       margin-top: 33px;
 
     }
@@ -1103,6 +1103,7 @@
       box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.3);
       background-color: #ffffff;
       /* margin-right: 410px; */
+      margin-left: 101px;
     }
 
     
@@ -1226,13 +1227,10 @@
       
     }
     #cbse-math-1{
-      margin-left: 230px;
+      margin-left: 127px;
     }
 
-
-      
-
-    .cbse-m {
+    .cbse-icse-Maths {
       width: 103px;
       height: 39px;
       object-fit: contain;
@@ -1248,8 +1246,382 @@
       margin-top: 67px;
       margin-left: 163px;
     }
+
+    .cbse-icse-Physics {
+      width: 127px;
+      height: 39px;
+      object-fit: contain;
+      font-family: Montserrat;
+      font-size: 32px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.22;
+      letter-spacing: normal;
+      text-align: left;
+      color: #1e4190;
+      margin-left: 151px;
+      margin-top: 116px;
+    }
+
+    .cbse-phy{
+      display: inline-flex;
+    }
+
+    .cbse-phy .cards{
+      display: inline-flex;
+      margin-top: 77px;
+    }
+
+    #cbse-phy-1{
+      margin-left: 115px;
+    }
+
+    .cbse-icse-Biology {
+      width: 127px;
+      height: 39px;
+      object-fit: contain;
+      font-family: Montserrat;
+      font-size: 32px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.22;
+      letter-spacing: normal;
+      text-align: left;
+      color: #1e4190;
+      margin-left: 151px;
+      margin-top: 138px;
+    }
+
+    .cbse-icse-Chemistry {
+      width: 174px;
+      height: 39px;
+      object-fit: contain;
+      font-family: Montserrat;
+      font-size: 32px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.22;
+      letter-spacing: normal;
+      text-align: left;
+      color: #1e4190;
+      margin-left: 127px;
+      margin-top: 139px;
+    }
+
+    #cbse-chem-1{
+      margin-left: 92px;
+    }
+
+    .cbse-icse-part2{
+      margin-top: 144px;
+      margin-left: 268px;
+      margin-right: 268px;
+    }
+    .line-1{
+      display: inline-flex;
+    }
+    .line-2{
+      display: inline-flex;
+      margin-top: 37px;
+    }
     
+    .Class-10-c10 {
+      width: 183px;
+      height: 55px;
+      font-family: Montserrat;
+      font-size: 45px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.22;
+      letter-spacing: normal;
+      text-align: left;
+      color: #1e4190;
+    }
+
+    .Class-9-c9 {
+      width: 163px;
+      height: 55px;
+      font-family: Montserrat;
+      font-size: 45px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.22;
+      letter-spacing: normal;
+      text-align: left;
+      color: #1e4190;
+    }
+
+    .Class-8-c8 {
+      width: 177px;
+      height: 55px;
+      font-family: Montserrat;
+      font-size: 45px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.22;
+      letter-spacing: normal;
+      text-align: left;
+      color: #1e4190;
+    }
+
+    .Class-7-c7 {
+      width: 163px;
+      height: 55px;
+      font-family: Montserrat;
+      font-size: 45px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.22;
+      letter-spacing: normal;
+      text-align: left;
+      color: #1e4190;
+    }
+
+    .Class-6-c6 {
+      width: 163px;
+      height: 55px;
+      font-family: Montserrat;
+      font-size: 45px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.22;
+      letter-spacing: normal;
+      text-align: left;
+      color: #1e4190;
+    }
+    .c-10 .cards, .c-9 .cards, .c-8 .cards, .c-7 .cards, .c-6 .cards{
+      display: inline-flex;
+    }
+
     
+    .c-10 .cards .Rectangle-ci, .c-9 .cards .Rectangle-ci, .c-8 .cards .Rectangle-ci, .c-7 .cards .Rectangle-ci, .c-6 .cards .Rectangle-ci{
+      display: inline-flex;
+    }
+
+    .c-9, .c-7{
+      margin-left: 140px;
+    }
+
+    .c-6{
+      margin-top: 63px;
+      margin-left: 383px;
+    }
+    .Class-10-c10, .Class-9-c9, .Class-8-c8, .Class-7-c7, .Class-6-c6{
+      margin-left: 235px;
+    }
+
+    .Rectangle-ci {
+      width: 303px;
+      height: 158px;
+      border-radius: 10px;
+      box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.3);
+      background-color: #ffffff;
+    }
+    #math-img{
+      width: 88px;
+      height: 88px;
+      margin-left: 8px; 
+      margin-top: 29px; 
+      
+    }
+
+    #sci-card{
+      margin-left: 20px;
+    }
+    #sci-img{
+      width: 88px;
+      height: 88px;
+      margin-left: 4px; 
+      margin-top: 29px;
+    }
+
+    #math-text{
+      width: 97px;
+      height: 37px;
+      font-family: Montserrat;
+      font-size: 30px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.23;
+      letter-spacing: normal;
+      text-align: left;
+      color: #1e4091;
+      margin: auto;
+
+    }
+    #sci-text{
+      width: 122px;
+      height: 37px;
+      font-family: Montserrat;
+      font-size: 30px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.23;
+      letter-spacing: normal;
+      text-align: left;
+      color: #1e4091;
+      margin-left: 50px;
+      /* margin-bottom: 60px; */
+      margin: auto;
+    }
+    .LIVE-classes {
+      width: 478px;
+      height: 88px;
+      object-fit: contain;
+      font-family: Montserrat;
+      font-size: 72px;
+      font-weight: 900;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.22;
+      letter-spacing: normal;
+      text-align: left;
+      color: #4b4b4b;
+      margin-left: 693px;
+      margin-right: 749px;
+      margin-top: 250px;
+    }
+    .LIVE-classes .text-style-1 {
+      color: #1e4190;
+    }
+
+    .live-part1{
+      display: inline-flex;
+    }
+    .Group-873 {
+      width: 857px;
+      height: 601px;
+      object-fit: contain;
+      margin-left: 60px;
+      margin-top: 97px;
+    }
+    .right{
+      margin-left: 71px;
+      margin-top: 242px;
+    }
+
+    .right .img-des{
+      display: inline-flex;
+    }
+    .coaching {
+      width: 76.2px;
+      height: 61.6px;
+      object-fit: contain;
+      margin-left: 71px;
+    }
+    .Directly-reach-the-tutors-live {
+      width: 716px;
+      height: 58px;
+      object-fit: contain;
+      font-family: Montserrat;
+      font-size: 48px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.21;
+      letter-spacing: normal;
+      text-align: left;
+      color: #4b4b4b;
+      margin-left: 49.8px;
+    }
+
+    .Clarify-your-doubts-immediately {
+      width: 521px;
+      height: 39px;
+      object-fit: contain;
+      font-family: Montserrat;
+      font-size: 32px;
+      font-weight: 500;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.22;
+      letter-spacing: normal;
+      text-align: left;
+      color: #757575;
+      margin-left: 49.8px;
+      margin-top: 22px;
+    }
+    .presentation {
+      width: 68px;
+      height: 68px;
+      object-fit: contain;  
+      margin-left: 75px;
+      margin-top: 54px;
+    }
+
+    .Understand-your-competition {
+      width: 747px;
+      height: 58px;
+      object-fit: contain;
+      font-family: Montserrat;
+      font-size: 48px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.21;
+      letter-spacing: normal;
+      text-align: left;
+      color: #4b4b4b;
+      margin-top: 54px;
+      margin-left: 54px;
+      
+    }
+
+    .Learn-with-competing-students {
+      width: 513px;
+      height: 39px;
+      object-fit: contain;
+      font-family: Montserrat;
+      font-size: 32px;
+      font-weight: 500;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.22;
+      letter-spacing: normal;
+      text-align: left;
+      color: #757575;
+      margin-top: 10px;
+      margin-left: 54px;
+    }
+
+    .FAB-Extended-Primary-Color-Enabled {
+      width: 410px;
+      height: 65px;
+      border-radius: 20px;
+      border: solid 2px #d60b3c;
+      background-color: #d60b3c;
+      margin-left: 329px;
+      margin-top: 97px;
+      
+    }
+
+    .Join-the-free-class-today {
+      width: 341px;
+      height: 34px;
+      font-family: Roboto;
+      font-size: 26px;
+      font-weight: 500;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.31;
+      letter-spacing: 2.32px;
+      text-align: left;
+      color: #ffffff;
+    }
+
+
+
+
     
 
    
